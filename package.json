@@ -1,10 +1,10 @@
 {
   "name": "gobha-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "changes the file extension of the file",
-  "repository": { 
-    "type" : "git",
-    "url" : "https://github.com/Daviot/gobha-extension.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Daviot/gobha-extension.git"
   },
   "main": "lib/index.js",
   "directories": {},
@@ -18,7 +18,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["gobha", "metalsmith"],
+  "keywords": [
+    "gobha",
+    "metalsmith"
+  ],
   "author": "Daviot <gobha@daviot.at>",
   "license": "MIT"
 }
