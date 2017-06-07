@@ -2,14 +2,12 @@
   "name": "gobha-file-to-path",
   "version": "1.0.0",
   "description": "Converts all files into permalink for seo optimisation and changes the file extension of the file",
-  "main": "index.js",
   "repository": { 
     "type" : "git",
     "url" : "https://github.com/Daviot/gobha-file-to-path.git"
   },
-  "directories": {
-    "lib": "lib"
-  },
+  "main": "lib/index.js",
+  "directories": {},
   "dependencies": {
     "async": "^2.4.1",
     "extend": "^3.0.1",
