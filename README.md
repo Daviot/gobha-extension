@@ -10,14 +10,14 @@ Every file that match the `extension` option will be converted into an *.html fi
 
 ## Installation
 
-	$ npm install gobha-file-to-path
+	$ npm install gobha-extension
 
 ## Javascript Usage
 
 ```js
-let file_to_path = require('gobha-file-to-path')
+let extension = require('gobha-extension')
 
-metalsmith.use(file_to_path())
+metalsmith.use(extension())
 ```
 
 ## Options
