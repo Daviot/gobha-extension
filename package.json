@@ -1,6 +1,6 @@
 {
   "name": "gobha-extension",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "changes the file extension of the file",
   "repository": {
     "type": "git",
